@@ -1,0 +1,4 @@
+Python Version:
+Python 3.9.17
+
+Installed Packages:
